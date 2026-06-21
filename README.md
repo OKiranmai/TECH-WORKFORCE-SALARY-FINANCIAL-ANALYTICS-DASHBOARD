@@ -1,5 +1,4 @@
 # Tech Workforce & Financial Analytics Dashboard 📊
--**Note** - Dataset is too large for GitHub preview. Click Raw or download the file to view.
 A Power BI project analyzing the tech workforce — covering salaries, career growth, job satisfaction, skills/certifications, and personal expenses & savings.
 
 ## Overview
@@ -27,3 +26,5 @@ Built on the **Tech Salary Dataset** (CSV), this project includes 6 interactive 
 ## Project link
 
 [https://github.com/OKiranmai/TECH-WORKFORCE-SALARY-FINANCIAL-ANALYTICS-DASHBOARD.git]
+
+-**❗Note** - Dataset is too large for GitHub preview. Click Raw or download the file to view.
